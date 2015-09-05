@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app labels -->
+    <string name="app_name">Capture Assist</string>
+    <string name="txt_author">by \nLeonard Tatum &amp; Emmanuel Okoh</string>
+
+    <!-- content description -->
+    <string name="content_desc_press_anywhere_screen">Press anywhere on this screen to take a picture</string>
+
+    <!-- settings labels -->
+    <string name="action_settings">Settings</string>
+</resources>
