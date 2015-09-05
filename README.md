@@ -1,2 +1,2 @@
 # capture-assist
-Enhanced Camera application primarily for the visually impaired
+Enhanced Android Camera application primarily for the visually impaired
